@@ -36,7 +36,7 @@ Meu primeiro contato com programação foi aos 15 anos tentando entender como os
   <ol>
     <li>Front-end: JavaScript + ReactJs + Bootsrap5 <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
     </li>
-    <li>Front-end: .Net 6 REST API <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> </li> 
+    <li>Back-end: .Net 6 REST API <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> </li> 
     <li>Banco de dados: MSSQL Server <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /></li>
   </ol>
 </p>
