@@ -47,11 +47,11 @@ Meu objetivo atualmente é desenvolvimento web, com foco em back-end. Por muitos
 </p>
 
 <h2>Minha config 🖥️</h2>
-CPU: i7-8700k<br/>
-GPU: GTX1650<br/>
+CPU: i7-8700<br/>
+GPU: RTX3060<br/>
 RAM: 2x 8GB DRR4 2666mhz<br/>
 MOBO: MSI MORTAR B360M<br/>
-PSU: EVGA 450w<br/>
+PSU: EVGA 750w<br/>
 Teclado: FORTREK K5 RGB<br/>
 Mouse: Redragon Cobra M711<br/>
-Windows 10
+Windows 11
