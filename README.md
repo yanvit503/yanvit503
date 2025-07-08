@@ -21,7 +21,7 @@
 
 <h2>Quem sou eu ☺️👨‍💻</h2>
 <p>
-Meu nome é Yan Vitor, tenho 21 anos e sou de Rio de Janeiro capital. Apaixonado por tecnologia, jogos e rock desde criança.
+Meu nome é Yan Vitor, nasci em 2000 e sou de Rio de Janeiro capital. Apaixonado por tecnologia, jogos e rock desde criança.
 💻🎮🎸
 </p>
   
@@ -48,8 +48,8 @@ Meu objetivo atualmente é desenvolvimento web, com foco em back-end. Por muitos
 
 <h2>Minha config 🖥️</h2>
 CPU: i7-8700<br/>
-GPU: RTX3060<br/>
-RAM: 2x 8GB DRR4 2666mhz<br/>
+GPU: RTX-3060<br/>
+RAM: 4x 8GB DRR4 2666mhz<br/>
 MOBO: MSI MORTAR B360M<br/>
 PSU: EVGA 750w<br/>
 Teclado: FORTREK K5 RGB<br/>
